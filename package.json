@@ -3,9 +3,13 @@
     [
       "https://github.com/CesarBalzer/Cordova-Plugin-Bluetooth-Printer.git",
       "/home/ubuntu/Cordova/bluetoothprint"
+    ],
+    [
+      "https://github.com/cirrushr/Cordova-Plugin-Bluetooth-Printer.git",
+      "/home/ubuntu/Cordova/btprinter"
     ]
   ],
-  "_from": "git+https://github.com/CesarBalzer/Cordova-Plugin-Bluetooth-Printer.git",
+  "_from": "git+https://github.com/cirrushr/Cordova-Plugin-Bluetooth-Printer.git",
   "_id": "Cordova-Plugin-Bluetooth-Printer@0.0.1-dev",
   "_inCache": true,
   "_installable": true,
@@ -13,29 +17,29 @@
   "_phantomChildren": {},
   "_requested": {
     "hosted": {
-      "directUrl": "https://raw.githubusercontent.com/CesarBalzer/Cordova-Plugin-Bluetooth-Printer/master/package.json",
-      "gitUrl": "git://github.com/CesarBalzer/Cordova-Plugin-Bluetooth-Printer.git",
-      "httpsUrl": "git+https://github.com/CesarBalzer/Cordova-Plugin-Bluetooth-Printer.git",
-      "shortcut": "github:CesarBalzer/Cordova-Plugin-Bluetooth-Printer",
-      "ssh": "git@github.com:CesarBalzer/Cordova-Plugin-Bluetooth-Printer.git",
-      "sshUrl": "git+ssh://git@github.com/CesarBalzer/Cordova-Plugin-Bluetooth-Printer.git",
+      "directUrl": "https://raw.githubusercontent.com/cirrushr/Cordova-Plugin-Bluetooth-Printer/master/package.json",
+      "gitUrl": "git://github.com/cirrushr/Cordova-Plugin-Bluetooth-Printer.git",
+      "httpsUrl": "git+https://github.com/cirrushr/Cordova-Plugin-Bluetooth-Printer.git",
+      "shortcut": "github:cirrushr/Cordova-Plugin-Bluetooth-Printer",
+      "ssh": "git@github.com:cirrushr/Cordova-Plugin-Bluetooth-Printer.git",
+      "sshUrl": "git+ssh://git@github.com/cirrushr/Cordova-Plugin-Bluetooth-Printer.git",
       "type": "github"
     },
     "name": null,
-    "raw": "https://github.com/CesarBalzer/Cordova-Plugin-Bluetooth-Printer.git",
-    "rawSpec": "https://github.com/CesarBalzer/Cordova-Plugin-Bluetooth-Printer.git",
+    "raw": "https://github.com/cirrushr/Cordova-Plugin-Bluetooth-Printer.git",
+    "rawSpec": "https://github.com/cirrushr/Cordova-Plugin-Bluetooth-Printer.git",
     "scope": null,
-    "spec": "git+https://github.com/CesarBalzer/Cordova-Plugin-Bluetooth-Printer.git",
+    "spec": "git+https://github.com/cirrushr/Cordova-Plugin-Bluetooth-Printer.git",
     "type": "hosted"
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "git+https://github.com/CesarBalzer/Cordova-Plugin-Bluetooth-Printer.git#59ef87f95827e7687175455e943906199fc5eeea",
-  "_shasum": "bed7b919fdd66cdf292bcde0642cf64df8544cf9",
+  "_resolved": "git+https://github.com/cirrushr/Cordova-Plugin-Bluetooth-Printer.git#0d239ab3396eec6f87ddd9ed55d6d240541e0daa",
+  "_shasum": "0b0a829fbae979b5738881982ffadce525d73671",
   "_shrinkwrap": null,
-  "_spec": "https://github.com/CesarBalzer/Cordova-Plugin-Bluetooth-Printer.git",
-  "_where": "/home/ubuntu/Cordova/bluetoothprint",
+  "_spec": "https://github.com/cirrushr/Cordova-Plugin-Bluetooth-Printer.git",
+  "_where": "/home/ubuntu/Cordova/btprinter",
   "author": {
     "name": "Syed Rehanuddin"
   },
